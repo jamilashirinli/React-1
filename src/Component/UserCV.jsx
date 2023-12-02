@@ -6,7 +6,7 @@ import './UserCV.css'
 
 const UserCV = () => {
     return (
-        <div className="all">
+        <div>
             <PersonalInfo />
             <Experience />
             <Contacts />
